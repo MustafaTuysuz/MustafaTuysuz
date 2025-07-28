@@ -1,4 +1,4 @@
-[![MasterHead](https://i.hizliresim.com/5d1naxu.jpeg?_gl=1*hfe81u*_ga*MTA2NjAzODIzMS4xNzUzNzI2Nzgy*_ga_M9ZRXYS2YN*czE3NTM3MjY3ODIkbzEkZzEkdDE3NTM3MjcwMjYkajU5JGwwJGgw)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbJBH2mAgbKIr86aKpxykADSdQfTpzPqp8xfMSuO-nrWaipZ84c933bA6uobs2LJCwlg&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Mustafa TÜYSÜZ</h1>
 <h3 align="center">There’s a solution to every problem — you just need the right programming language.</h3>
 
