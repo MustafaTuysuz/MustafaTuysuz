@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbJBH2mAgbKIr86aKpxykADSdQfTpzPqp8xfMSuO-nrWaipZ84c933bA6uobs2LJCwlg&usqp=CAU)
+[![MasterHead](https://www.freepik.com/free-photo/still-life-books-versus-technology_36290035.htm#fromView=keyword&page=1&position=20&uuid=d67e015f-e74b-4b30-9e63-b6b530d9b82b&query=Linkedin+Background+Banner+Software+Developer)
 <h1 align="center">Hi 👋, I'm Mustafa TÜYSÜZ</h1>
 <h3 align="center">There’s a solution to every problem — you just need the right programming language.</h3>
 
