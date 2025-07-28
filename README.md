@@ -1,4 +1,4 @@
-[![Image]([https://i.hizliresim.com/5d1naxu.jpeg](https://i.hizliresim.com/5d1naxu.jpeg?_gl=1*1w1t9kr*_ga*MTA2NjAzODIzMS4xNzUzNzI2Nzgy*_ga_M9ZRXYS2YN*czE3NTM3MjY3ODIkbzEkZzEkdDE3NTM3MjY5NDQkajYwJGwwJGgw))]
+[![MasterHead](https://hizliresim.com/5d1naxu)
 <h1 align="center">Hi 👋, I'm Mustafa TÜYSÜZ</h1>
 <h3 align="center">There’s a solution to every problem — you just need the right programming language.</h3>
 
