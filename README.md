@@ -1,4 +1,4 @@
-[![Image](https://i.hizliresim.com/5d1naxu.jpeg)](https://hizliresim.com/5d1naxu)
+[![Image](https://i.hizliresim.com/5d1naxu.jpeg)]
 <h1 align="center">Hi 👋, I'm Mustafa TÜYSÜZ</h1>
 <h3 align="center">There’s a solution to every problem — you just need the right programming language.</h3>
 
