@@ -7,13 +7,15 @@
 
 <br>
 
+<!-- TROPHY -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mustafatuysuz&theme=onedark&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mustafatuysuz&theme=onedark&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
+<!-- STATS + STREAK -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mustafatuysuz&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafatuysuz&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mustafatuysuz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=mustafatuysuz&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
