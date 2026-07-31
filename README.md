@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa TÜYSÜZ</h1>
 <h3 align="center">🚀 Full Stack Developer | C# • React JS • MS SQL</h3>
 
-<p align="center">
-  🛠 <b>Setup</b> → Clone the repository → Pray → Run
-</p>
 
 <br>
 
